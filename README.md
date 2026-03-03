@@ -128,5 +128,7 @@ The game uses **Kivy’s ScreenManager** and follows a modular object-oriented d
 ## Author
 
 Daria Miele
+
 B.Sc. Artificial Intelligence
+
 University of Milan / University of Milan-Bicocca / University of Pavia
